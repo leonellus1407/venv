@@ -1,0 +1,5 @@
+1. git clone https://github.com/leonellus1407/venv
+2. Setup python (if need) from repo
+3. in cmd: pip install Flask
+4. cd %repo%/bin
+5. python app.py
