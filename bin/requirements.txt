@@ -1,0 +1,4 @@
+wheel==0.30.0
+pip==9.0.1
+setuptools==40.2.0
+Flask==1.0.2
